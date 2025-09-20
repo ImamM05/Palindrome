@@ -15,8 +15,6 @@ public class Palindrome {
         return true;
     }
 
-    //aabbaa
-
     public static void main (String args[])
     {
         System.out.println("Is it a palindrome: " + isPalindrome("aacbaa"));
